@@ -1,5 +1,9 @@
 
- <div>
+### Olá! Eu sou  Kalil Mendes 👋
+
+- - 🌱 Estou no terceiro semestre da Faculdade de análise e desenvolvimento de sistemas 👨🏿‍💻❤
+
+<div>
    <a href="https://github.com/lilmendes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilmendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilmendes&layout=compact&langs_count=6&theme=tokyonight"/>
