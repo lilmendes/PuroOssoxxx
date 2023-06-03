@@ -1,13 +1,10 @@
-
 ### Olá! Meu nome é Kalil Mendes 👋
 
 Estou no terceiro semestre da faculdade de análise e desenvolvimento de sistemas 👨🏿‍💻❤
 
 <div>
-   <a href="https://github.com/lilmendes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilmendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilmendes&layout=compact&langs_count=6&theme=tokyonight"/>
-
+  <a href="https://github.com/lilmendes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilmendes&layout=compact&langs_count=6&theme=tokyonight"/> 
 </div>
 <div style="display: inline_block"><br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" alt="Java" height="30" width="40">
@@ -17,7 +14,6 @@ Estou no terceiro semestre da faculdade de análise e desenvolvimento de sistema
 </div>
  
  <br>
- 
   
 <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
