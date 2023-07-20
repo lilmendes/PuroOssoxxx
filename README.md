@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Kalil Mendes 👋
 
-Estou no terceiro semestre da faculdade de análise e desenvolvimento de sistemas 👨🏿‍💻❤
+Estou no quarto semestre da faculdade de análise e desenvolvimento de sistemas 👨🏿‍💻❤
 <div>
 <div>
   <a href="https://github.com/lilmendes">
